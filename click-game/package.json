@@ -1,7 +1,7 @@
 {
   "name": "click-game",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://sjonon.github.io/click-react-game",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
