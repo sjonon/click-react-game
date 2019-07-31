@@ -9,7 +9,8 @@ class App extends React.Component {
   state ={
     count: 0,
     countTop: 0,
-    images
+    images,
+    guesses: ""
   }
 
   imageClick = id => {
@@ -31,7 +32,7 @@ class App extends React.Component {
     console.log(updatedImages)
     console.log(score)
     if(lose === false){
-    this.setState({images: updatedImages, count: score})
+    this.setState({images: updatedImages, count: score, guesses: "You guessed correctly"})
     }else {
       console.log("game has been reset")
       this.gameReset()
@@ -50,7 +51,7 @@ class App extends React.Component {
   if(score >= topScore){
     this.setState({images: resetImages, count: 0})
   }else{
-    this.setState({images: resetImages, count: 0, countTop: score})
+    this.setState({images: resetImages, count: 0, countTop: score, guesses: "You guessed incorrectly"})
   }
 
 }
