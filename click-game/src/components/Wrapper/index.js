@@ -4,7 +4,7 @@ import "./style.css";
 function Wrapper(props){
         return <div className="wrapper">
         <div className="container instructions">
-        <p>Click on a picture to start the game.  Keep clicking on pictures but don't click on the same picture twice of you'll lose! </p>
+        <p>Click on a picture to start the game.  Keep clicking on pictures but don't click on the same picture twice or you'll lose! </p>
         <div className="divider"></div>
         <div className="row">
         <div className="col s6">Score: {props.count}</div>
