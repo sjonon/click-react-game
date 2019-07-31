@@ -1,9 +1,10 @@
 import React from "react";
+import "./style.css";
 
 function ImageCard(props){
     return (
         <div className="image-container">
-            <img src={props.src} alt={props.name}/>
+            <img onClick={()=>props.imageClick(props.id)} src={props.imageUrl} alt={props.name}/>
         </div>
     )
 }
