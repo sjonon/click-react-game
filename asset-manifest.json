@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/click-react-game/static/css/main.c0251fed.chunk.css",
-    "main.js": "/click-react-game/static/js/main.01c6c387.chunk.js",
-    "main.js.map": "/click-react-game/static/js/main.01c6c387.chunk.js.map",
+    "main.css": "/click-react-game/static/css/main.4c948270.chunk.css",
+    "main.js": "/click-react-game/static/js/main.4cb42878.chunk.js",
+    "main.js.map": "/click-react-game/static/js/main.4cb42878.chunk.js.map",
     "runtime~main.js": "/click-react-game/static/js/runtime~main.c4180d67.js",
     "runtime~main.js.map": "/click-react-game/static/js/runtime~main.c4180d67.js.map",
     "static/js/2.58b98f68.chunk.js": "/click-react-game/static/js/2.58b98f68.chunk.js",
     "static/js/2.58b98f68.chunk.js.map": "/click-react-game/static/js/2.58b98f68.chunk.js.map",
     "index.html": "/click-react-game/index.html",
-    "precache-manifest.1ac98ae99a979c9bbb4297fe23206f33.js": "/click-react-game/precache-manifest.1ac98ae99a979c9bbb4297fe23206f33.js",
+    "precache-manifest.51a888c642e3152ae5ecf3b550d42b7c.js": "/click-react-game/precache-manifest.51a888c642e3152ae5ecf3b550d42b7c.js",
     "service-worker.js": "/click-react-game/service-worker.js",
-    "static/css/main.c0251fed.chunk.css.map": "/click-react-game/static/css/main.c0251fed.chunk.css.map"
+    "static/css/main.4c948270.chunk.css.map": "/click-react-game/static/css/main.4c948270.chunk.css.map"
   }
 }
