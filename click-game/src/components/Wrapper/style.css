@@ -8,4 +8,6 @@
     justify-content: space-around;
     align-content: flex-start;
     overflow: auto;
+    font-family: 'Slabo 27px', serif;
+    font-size: 16px;
   }

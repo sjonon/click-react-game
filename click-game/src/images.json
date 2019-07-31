@@ -1,74 +1,74 @@
 [
     {
         "id": 1,
-        "image": "https://picsum.photos/id/1025/200/300",
+        "image": "https://picsum.photos/id/1025/200/200",
         "name": "sitting pug",
         "clicked": false
     },
     {
         "id": 2,
-        "image":"https://picsum.photos/id/1020/200/300",
+        "image":"https://picsum.photos/id/1020/200/200",
         "name": "bear",
         "clicked": false
     },
     {
         "id": 3,
-        "image":"https://picsum.photos/id/1056/200/300",
+        "image":"https://picsum.photos/id/1056/200/200",
         "name": "sky",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "https://picsum.photos/id/1062/200/300",
+        "image": "https://picsum.photos/id/1062/200/200",
         "name": "pug on bed",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "https://picsum.photos/id/1069/200/300",
+        "image": "https://picsum.photos/id/1069/200/200",
         "name": "jellyfish",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "https://picsum.photos/id/16/200/300",
+        "image": "https://picsum.photos/id/16/200/200",
         "name": "rocky cove",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "https://picsum.photos/id/244/200/300",
+        "image": "https://picsum.photos/id/244/200/200",
         "name": "pelicans on boardwalk",
         "clicked": false
 
     },
     {
         "id": 8,
-        "image": "https://picsum.photos/id/25/200/300",
+        "image": "https://picsum.photos/id/25/200/200",
         "name": "tree limbs",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "https://picsum.photos/id/295/200/300",
+        "image": "https://picsum.photos/id/295/200/200",
         "name": "ocean",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "https://picsum.photos/id/374/200/300",
+        "image": "https://picsum.photos/id/374/200/200",
         "name": "beach",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "https://picsum.photos/id/433/200/300",
+        "image": "https://picsum.photos/id/433/200/200",
         "name": "bear face",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "https://picsum.photos/id/537/200/300",
+        "image": "https://picsum.photos/id/537/200/200",
         "name": "night sky",
         "clicked": false
     }

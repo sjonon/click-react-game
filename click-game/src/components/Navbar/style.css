@@ -1,0 +1,17 @@
+.nav-wrapper {
+    width: 100%;
+    font-size: 36px;
+    margin-bottom: 20px;
+    height: auto;
+    text-shadow: rgb(46, 42, 42) 3px 3px 6px;
+    box-shadow: rgb(151, 145, 145) 4px 4px 8px;
+    font-family: 'Slabo 27px', serif;
+}
+li {
+    padding: 25px;
+    margin: 10;
+}
+.brand-logo{
+
+}
+
