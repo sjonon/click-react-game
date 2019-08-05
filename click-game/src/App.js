@@ -41,11 +41,12 @@ class App extends React.Component {
     console.log(updatedImages)
     console.log(score)
     if(score === 12){
-      this.setState({guesses: "You win! Click an image to play again."})
-      this.gameReset();
+      console.log("if score is 12 display win")
+      this.setState({count: score}, () => {this.gameReset()})
     }
-    if(lose === false){
+    else if(lose === false){
     this.setState({images: updatedImages, count: score, guesses: "You guessed correctly!"})
+    this.handleShuffle();
     }else {
       console.log("game has been reset")
       this.gameReset()}
@@ -62,7 +63,7 @@ class App extends React.Component {
     })
   
     if(score === 12){
-      this.setState({image: resetImages, countTop: 12, count: 0, guesses: "You win! Click to play again."});
+      this.setState({image: resetImages, countTop: score, count: 0, guesses: "You win! Click to play again."});
     }else if(score > topScore){
       this.setState({images: resetImages, countTop: score, count: 0, guesses: "You already clicked that one. Try again!"})
     }else if (score < topScore) {
